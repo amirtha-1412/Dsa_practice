@@ -1,8 +1,19 @@
-## Array Problems – Java
+# Arrays
 
-1. LC001 – Two Sum
-2. LC121 – Best Time to Buy and Sell Stock
-3. LC217 – Contains Duplicate
-4. LC053 – Maximum Subarray
-5. LC238 – Product of Array Except Self
+This folder contains array-based DSA problems solved in Java.
 
+## Problems
+- LC001 Two Sum  
+- LC121 Best Time to Buy and Sell Stock  
+- LC217 Contains Duplicate  
+- LC053 Maximum Subarray  
+- LC238 Product of Array Except Self  
+- LC088 Merge Sorted Array  
+- LC075 Sort Colors  
+- LC055 Jump Game  
+
+## Language
+- Java
+
+## Source
+- LeetCode
