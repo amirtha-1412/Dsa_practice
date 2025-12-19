@@ -9,7 +9,9 @@ class Solution {
             cnt[t.charAt(i)-'a']--;
         }
         for (int c:cnt) {
-            if (c!=0) return false;
+            if (c!=0){
+                return false;
+            }
         }
         return true;
     }
